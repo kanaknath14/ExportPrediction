@@ -1,4 +1,4 @@
-# Export Prediction
+# Global Trade Horizons 2030: Predictive Modeling & Trend Analysis of International Exports
 ## ABSTRACT
 Exports of goods and services is an integral part of the overall GDP of an economy in the age of globalization. Machine learning can be used to predict the growth of exports of goods and services by identifying the pattern followed by an economy’s exports. According to the World Bank, exports of goods and services by an economy represent the value of all goods and other market services sold to non-residents, reflecting the change in ownership. Many machine learning algorithms can be used for export prediction. This project proposes to develop a machine learning model to predict the absolute value of exports in billions (USD). The model is trained on a dataset of historical export volume.
 
