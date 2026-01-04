@@ -1,17 +1,19 @@
-# Global Trade Horizons 2030: Predictive Modeling & Trend Analysis of International Exports
+# Global Trade Horizons 2030: Predictive Modelling & Trend Analysis of International Exports
 ## ABSTRACT
 Exports of goods and services is an integral part of the overall GDP of an economy in the age of globalization. Machine learning can be used to predict the growth of exports of goods and services by identifying the pattern followed by an economy’s exports. According to the World Bank, exports of goods and services by an economy represent the value of all goods and other market services sold to non-residents, reflecting the change in ownership. Many machine learning algorithms can be used for export prediction. This project proposes to develop a machine learning model to predict the absolute value of exports in billions (USD). The model is trained on a dataset of historical export volume.
 
 Keywords: Export, Economy, Linear Regression, ARIMA, Data Visualisation, Trend Comparison.
 
 ## OVERVIEW
-With an ever-increasing rise in trade both domestically and internationally, economies have started taking special interest in its export and import volume. Many economists have argued that more rapid growth of exports can lead to higher economic growth. According to the World Bank, Exports of goods and services represent the value of all goods and other market services provided to the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments. The share of exports in Indian GDP has increased from 19.8% in 2015 to 21.2% in 2024, which also indicates the growing relevance of exports in the Indian economy (World Bank). These statistics motivated me to analyse the export volume of various countries using machine learning methods to predict what it’s value might grow to by the year 2030.
+With an ever-increasing rise in trade both domestically and internationally, economies have started taking special interest in its export and import volume. Many economists have argued that more rapid growth of exports can lead to higher economic growth. According to the World Bank, exports of goods and services represent the value of all goods and other market services provided to the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments. The share of exports in Indian GDP has increased from 19.8% in 2015 to 21.2% in 2024, which also indicates the growing relevance of exports in the Indian economy (World Bank). These statistics motivated me to analyse the export volume of various countries using machine learning methods to predict what it’s value might grow to by the year 2030.
 
 
 ## PROJECT GOALS
 The aim of the project is to – 
 •	perform Exploratory Data analysis (EDA), that is, identify historical growth and outliers.
 •	build and validate a Linear Regression model to forecast values for the year 2030.
+•	build and validate an ARIMA model to forecast values for the year 2030.
+•	compare which algorithm is better suited for this dataset.
 •	compare growth trajectories between different economic regions (e.g., Emerging Markets vs. Developed Economies).
 
 ## DATA SOURCE
